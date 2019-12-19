@@ -1,0 +1,16 @@
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.deps.json
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.csprojAssemblyReference.cache
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfoInputs.cache
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfo.cs
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+C:\Users\гороховв\source\repos\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.deps.json
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.csprojAssemblyReference.cache
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfoInputs.cache
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfo.cs
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+C:\Users\бейсеевс\Desktop\OnlineShopTemplate-master\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
